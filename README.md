@@ -54,8 +54,8 @@ A two-page interactive dashboard was developed to support HR decision-making.
 - Attrition vs Job Satisfaction
 
 📷 Dashboard screenshots:
-Dashboard_Page1.png
-Dashboard_Page2.png
+![Dashboard1](Dashboard_page1.png)
+![Dashboard2](Dashboard_page2.png)
 
 ## 💡 Key Insights
 - Attrition is higher among early-career and lower-paid employees
@@ -87,3 +87,11 @@ Dashboard_Page2.png
 
 ## 📌 Conclusion
 This project demonstrates an end-to-end HR analytics workflow, from data exploration to dashboard-driven insights, enabling organizations to move from attrition monitoring to root-cause analysis.
+
+
+## 👨‍💻 Author
+**Ravi Kumar Gupta**  
+📍 Delhi, India  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+
