@@ -81,7 +81,7 @@ Dashboard_Page2.png
 | `HR_Attrition_Dashboard.pbix` | Interactive Power BI dashboard file |
 | `Dashboard_Page1.png` | Power BI dashboard – Attrition overview page |
 | `Dashboard_Page2.png` | Power BI dashboard – Attrition drivers analysis page |
-| `Problem_Statement.md` | Business problem definition and project objectives |
+| `HR_Attrition Problem.md` | Business problem definition and project objectives |
 | `README.md` | Project overview, methodology, and insights |
 
 
