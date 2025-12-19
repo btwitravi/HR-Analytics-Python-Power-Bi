@@ -20,3 +20,56 @@ promotions, and commute distance.
 - **Records:** 1,470 employees
 - **Type:** HR Employee Attrition Dataset
 - **Target Variable:** Attrition (Yes / No)
+
+ ## 🔍 Exploratory Data Analysis (EDA)
+
+EDA was performed to understand employee demographics, job characteristics, compensation, experience, and work conditions.
+
+## Key focus areas:
+- Age, income, experience, and tenure patterns
+- Department and job role distribution
+- Overtime, promotions, and job satisfaction impact
+- Correlation between age, income, and experience
+
+📄 Detailed EDA is available in:
+
+- HR_Attrition_EDA.ipynb
+- HR_Attrition_EDA_Report.pdf
+
+## 📊 Power BI Dashboard
+A two-page interactive dashboard was developed to support HR decision-making.
+
+## 🔹 Page 1: Attrition Overview (WHAT)
+- Total Employees
+- Total Attrition
+- Attrition Rate (%)
+- Attrition by Gender, Department, Job Role, and Marital Status
+
+## 🔹 Page 2: Attrition Drivers (WHY)
+- Attrition vs Monthly Income
+- Attrition vs Overtime
+- Attrition vs Years at Company
+- Attrition vs Years Since Last Promotion
+- Attrition vs Distance From Home
+- Attrition vs Job Satisfaction
+
+📷 Dashboard screenshots:
+Dashboard_Page1.png
+Dashboard_Page2.png
+
+## 💡 Key Insights
+- Attrition is higher among early-career and lower-paid employees
+- Employees working overtime show significantly higher attrition
+- Delayed promotions and low job satisfaction strongly influence exits
+- Longer commute distance contributes to higher attrition
+- Senior roles and long-tenure employees show stronger retention
+
+## ✅ Business Impact
+- This analysis helps HR teams:
+- Identify high-risk employee segments
+- Understand root causes of attrition
+- Monitor attrition KPIs effectively
+- Support retention and workforce planning decisions
+
+## 📌 Conclusion
+This project demonstrates an end-to-end HR analytics workflow, from data exploration to dashboard-driven insights, enabling organizations to move from attrition monitoring to root-cause analysis.
