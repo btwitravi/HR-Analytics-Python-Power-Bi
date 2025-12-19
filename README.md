@@ -54,6 +54,7 @@ A two-page interactive dashboard was developed to support HR decision-making.
 - Attrition vs Job Satisfaction
 
 📷 Dashboard screenshots:
+
 **Page1**
 ![Dashboard1](Dashboard_page1.png)
 
